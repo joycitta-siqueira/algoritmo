@@ -1,1 +1,1 @@
-### Exercicios realizados na aula de Algoritmo
+# Exercícios realizados na aula de Algoritmo e Programação
