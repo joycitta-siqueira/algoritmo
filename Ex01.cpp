@@ -9,6 +9,7 @@ int main(){ //inicio do algoritmo
 	printf("Hello World!\n\nAula 16/03/2021\n"); //imprima na tela -> \n - quebra de linha
 return 0; // retorno da funçao main
 }//final do algoritmo
+teste de git
 
 
 
